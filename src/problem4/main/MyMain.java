@@ -27,5 +27,8 @@ public class MyMain {
         tree.add(82);
         tree.add(5);
         tree.add(62);
+        MyQueue queue = new MyQueue();
+        queue.enqueue(tree.root);
+        queue.printQueue();
     }
 }
