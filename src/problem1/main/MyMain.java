@@ -15,7 +15,8 @@ public class MyMain {
         Scanner sc = new Scanner(System.in);
         int i =7;
         while(i>0){
-
+            tree.add(sc.nextInt());
+            i--;
         }
     }
 }
