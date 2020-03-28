@@ -6,7 +6,7 @@
  */
 package problem4.myqueue;
 
-import
+
 
 public class MyQueue {
 }
