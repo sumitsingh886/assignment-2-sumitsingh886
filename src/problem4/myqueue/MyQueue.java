@@ -6,7 +6,10 @@
  */
 package problem4.myqueue;
 
+import  problem1.node.TreeNode;
 
+import static problem1.mybst.MyBinarySearchTree.preOrder;
+import static problem1.mybst.MyBinarySearchTree.preOrderString;
 
 public class MyQueue {
 }
