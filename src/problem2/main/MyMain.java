@@ -15,7 +15,7 @@ public class MyMain {
         MyBinarySearchTree tree = new MyBinarySearchTree();
         Scanner sc = mew Scanner(System.in);
         int i =7;
-        while(i>0){
+        while(i>0) {
             tree.add(sc.nextInt());
             i--;
         }
