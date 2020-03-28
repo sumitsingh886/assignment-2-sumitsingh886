@@ -6,6 +6,8 @@
  */
 package problem1.main;
 
+import problem1.mybst.MyBinarySearchTree;
+import java.util.Scanner;
 
 public class MyMain {
 }
