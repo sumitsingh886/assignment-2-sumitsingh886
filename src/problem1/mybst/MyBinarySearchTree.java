@@ -13,4 +13,9 @@ public class MyBinarySearchTree {
     static int levels = 0;
     public TreeNode root;
 
+    public MyBinarySearchTree(){
+        this.root = null;
+        preOrderString = new StringBuilder();
+
+    }
 }
