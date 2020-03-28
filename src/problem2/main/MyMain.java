@@ -14,6 +14,9 @@ public class MyMain {
     public static void main(String[] args) {
         MyBinarySearchTree tree = new MyBinarySearchTree();
         Scanner sc = mew Scanner(System.in);
+        int i =7;
+        while(i>0){
 
+        }
     }
 }
