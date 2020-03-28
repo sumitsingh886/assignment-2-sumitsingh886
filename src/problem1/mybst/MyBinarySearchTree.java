@@ -6,7 +6,11 @@
  */
 package problem1.mybst;
 
-
+import problem1.node.TreeNode;
 
 public class MyBinarySearchTree {
+    public static StringBuilder preOrderString;
+    static int levels = 0;
+    public TreeNode root;
+
 }
