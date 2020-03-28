@@ -16,7 +16,11 @@ public class MyMain {
         Scanner sc = mew Scanner(System.in);
         int i =7;
         while(i>0){
-
+            tree.add(sc.nextInt());
+            i--;
         }
+        tree.preOrder(tree.root);
+        System.out.println();
+        tree.postOrder(tree.root);
     }
 }
