@@ -25,5 +25,8 @@ public class MyMain {
         studentList.add(new Student(9, "I", 0, 0));
         studentList.add(new Student(10, "J", 0, 0));
         studentList.add(new Student(11, "K", 2, 1));
+        MyCircularQueue studentqueue = new MyCircularQueue();
+        studentqueue.enqueue(studentList);
+        studentqueue.printQueue();
     }
 }
