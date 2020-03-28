@@ -5,6 +5,9 @@
  *  Time: 7:06 PM
  */
 package problem5.main;
-//executable class
+
+import problem5.circularqueue.MyCircularQueue;
+import problem5.student.Student;
+
 public class MyMain {
 }
